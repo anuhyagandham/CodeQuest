@@ -53,6 +53,7 @@ streamlit run app.py
 ```
 
 ## 👩‍💻 Developed By
-**Anuhya Gandham**
-**Kavitha Polana**
-**Alekhya Koduru**
+
+- Anuhya Gandham
+- Kavitha Polana
+- Alekhya Koduru
