@@ -1,0 +1,58 @@
+[
+    {
+        "name": "Sarayu",
+        "xp": 1580,
+        "level": 16,
+        "rank": "Master",
+        "problemsSolved": 75
+    },
+    {
+        "name": "Pujith",
+        "xp": 840,
+        "level": 9,
+        "rank": "Intermediate",
+        "problemsSolved": 32
+    },
+    {
+        "name": "Anuhya",
+        "xp": 750,
+        "level": 8,
+        "rank": "Intermediate",
+        "problemsSolved": 37
+    },
+    {
+        "name": "Anuhya Gandham",
+        "xp": 630,
+        "level": 7,
+        "rank": "Intermediate",
+        "problemsSolved": 31
+    },
+    {
+        "name": "Anuhya ",
+        "xp": 630,
+        "level": 7,
+        "rank": "Intermediate",
+        "problemsSolved": 31
+    },
+    {
+        "name": "Alekhya",
+        "xp": 530,
+        "level": 6,
+        "rank": "Intermediate",
+        "problemsSolved": 25
+    },
+    {
+        "name": "Kavitha",
+        "xp": 510,
+        "level": 6,
+        "rank": "Intermediate",
+        "problemsSolved": 24
+    },
+    {
+        "name": "Chandini",
+        "xp": 500,
+        "level": 6,
+        "rank": "Intermediate",
+        "problemsSolved": 24
+    }
+]

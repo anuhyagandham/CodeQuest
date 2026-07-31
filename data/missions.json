@@ -1,0 +1,20 @@
+[
+    {
+        "title": "Solve 5 Python Problems",
+        "description": "Complete beginner Python coding challenges",
+        "xp": 100,
+        "completed": true
+    },
+    {
+        "title": "Master SQL Queries",
+        "description": "Practice SELECT, WHERE and JOIN queries",
+        "xp": 150,
+        "completed": false
+    },
+    {
+        "title": "Learn Data Visualization",
+        "description": "Create charts using Pandas and Matplotlib",
+        "xp": 200,
+        "completed": false
+    }
+]

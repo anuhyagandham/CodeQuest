@@ -1,0 +1,29 @@
+{
+  "xp": 1250,
+  "level": 8,
+  "problems_solved": 148,
+
+  "weekly_progress": {
+    "Monday": 10,
+    "Tuesday": 15,
+    "Wednesday": 20,
+    "Thursday": 12,
+    "Friday": 25,
+    "Saturday": 18,
+    "Sunday": 30
+  },
+
+  "problem_breakdown": {
+    "Easy": 80,
+    "Medium": 45,
+    "Hard": 23
+  },
+
+  "xp_progress": {
+    "Week1": 100,
+    "Week2": 250,
+    "Week3": 500,
+    "Week4": 850,
+    "Week5": 1250
+  }
+}

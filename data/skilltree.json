@@ -1,0 +1,27 @@
+[
+    {
+        "skill": "Python",
+        "level": 5,
+        "progress": 95
+    },
+    {
+        "skill": "SQL",
+        "level": 4,
+        "progress": 80
+    },
+    {
+        "skill": "Data Structures",
+        "level": 3,
+        "progress": 65
+    },
+    {
+        "skill": "Algorithms",
+        "level": 2,
+        "progress": 40
+    },
+    {
+        "skill": "Web Development",
+        "level": 1,
+        "progress": 20
+    }
+]

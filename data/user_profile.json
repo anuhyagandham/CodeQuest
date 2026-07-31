@@ -1,0 +1,14 @@
+{
+  "name": "Human User",
+  "joined_on": "2026-07-22",
+  "last_updated": "2026-07-22",
+  "goals": {
+    "daily_minutes": 45,
+    "weekly_missions": 3
+  },
+  "skills": {
+    "python": 100,
+    "sql": 0,
+    "data_visualization": 0
+  }
+}

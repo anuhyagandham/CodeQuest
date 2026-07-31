@@ -1,0 +1,22 @@
+[
+  {
+    "title": "Python Beginner",
+    "description": "Completed first Python challenge",
+    "status": "Unlocked"
+  },
+  {
+    "title": "100 Problems Solved",
+    "description": "Solved 100 coding problems",
+    "status": "Unlocked"
+  },
+  {
+    "title": "Contest Champion",
+    "description": "Won a coding contest",
+    "status": "Locked"
+  },
+  {
+    "title": "Dynamic Programming Master",
+    "description": "Solved 50 DP problems",
+    "status": "Locked"
+  }
+]
