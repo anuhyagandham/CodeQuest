@@ -29,6 +29,11 @@ CodeQuest addresses this problem by transforming the coding journey into a gamif
 - Plotly
 - JSON
 
+## 🔗 APIs Used
+
+- GitHub REST API – Fetches user profile information such as repositories, followers, following, and public activity.
+- LeetCode API – Retrieves coding statistics including solved problems, contest rating, ranking, and user progress.
+
 ## 📂 Project Structure
 ```
 CodeQuest/
